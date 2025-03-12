@@ -20,6 +20,3 @@ This project contains test cases for image upload functionality. It is designed 
 
 ## 📌 Contributions
 Feel free to submit pull requests if you want to improve or extend the test cases.
-
-## 📝 License
-This project is open-source. You can use and modify it as needed.
